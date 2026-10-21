@@ -441,6 +441,3 @@ We welcome contributions! Here's how:
 - **Lucide Icons** - Clean, consistent icons
 
 ---
-
-#   s t u d y s y n c  
- 
